@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": "Adoration and Praise"
+  },
+  {
+    "id": 2,
+    "name": "Morning Worship"
+  },
+  {
+    "id": 3,
+    "name": "Evening Worship"
+  },
+  {
+    "id": 4,
+    "name": "Opening of Worship"
+  },
+  {
+    "id": 5,
+    "name": "Close of Worship"
+  },
+  {
+    "id": 6,
+    "name": "Trinity"
+  },
+  {
+    "id": 7,
+    "name": "Love of God"
+  },
+  {
+    "id": 8,
+    "name": "Majesty and Power of God"
+  },
+  {
+    "id": 9,
+    "name": "Power of God in Nature"
+  },
+  {
+    "id": 10,
+    "name": "Faithfulness of God"
+  },
+  {
+    "id": 11,
+    "name": "Grace and Mercy of God"
+  },
+  {
+    "id": 12,
+    "name": "First Advent"
+  },
+  {
+    "id": 13,
+    "name": "Birth"
+  },
+  {
+    "id": 14,
+    "name": "Life and Ministry"
+  },
+  {
+    "id": 15,
+    "name": "Sufferings and Death"
+  },
+  {
+    "id": 16,
+    "name": "Resurrection and Ascension"
+  },
+  {
+    "id": 17,
+    "name": "Priesthood"
+  },
+  {
+    "id": 18,
+    "name": "Love of Christ for Us"
+  },
+  {
+    "id": 19,
+    "name": "Second Advent"
+  },
+  {
+    "id": 20,
+    "name": "Kingdom and Reign"
+  },
+  {
+    "id": 21,
+    "name": "Glory and Praise"
+  },
+  {
+    "id": 22,
+    "name": "Holy Spirit"
+  },
+  {
+    "id": 23,
+    "name": "Holy Scripture"
+  },
+  {
+    "id": 24,
+    "name": "Invitation"
+  },
+  {
+    "id": 25,
+    "name": "Repentance"
+  },
+  {
+    "id": 26,
+    "name": "Forgiveness"
+  },
+  {
+    "id": 27,
+    "name": "Consecration"
+  },
+  {
+    "id": 28,
+    "name": "Baptism"
+  },
+  {
+    "id": 29,
+    "name": "Salvation and Redemption"
+  },
+  {
+    "id": 30,
+    "name": "Community in Christ"
+  },
+  {
+    "id": 31,
+    "name": "Mission of the Church"
+  },
+  {
+    "id": 32,
+    "name": "Church Dedication"
+  },
+  {
+    "id": 33,
+    "name": "Ordination"
+  },
+  {
+    "id": 34,
+    "name": "Child Dedication"
+  },
+  {
+    "id": 35,
+    "name": "Sabbath"
+  },
+  {
+    "id": 36,
+    "name": "Communion"
+  },
+  {
+    "id": 37,
+    "name": "Law and Grace"
+  },
+  {
+    "id": 38,
+    "name": "Spiritual Gifts"
+  },
+  {
+    "id": 39,
+    "name": "Judgment"
+  },
+  {
+    "id": 40,
+    "name": "Resurrection of the Saints"
+  },
+  {
+    "id": 41,
+    "name": "Eternal Life"
+  },
+  {
+    "id": 42,
+    "name": "Early Advent"
+  },
+  {
+    "id": 43,
+    "name": "Our Love for God"
+  },
+  {
+    "id": 44,
+    "name": "Joy and Peace"
+  },
+  {
+    "id": 45,
+    "name": "Hope and Comfort"
+  },
+  {
+    "id": 46,
+    "name": "Meditation and Prayer"
+  },
+  {
+    "id": 47,
+    "name": "Faith and Trust"
+  },
+  {
+    "id": 48,
+    "name": "Guidance"
+  },
+  {
+    "id": 49,
+    "name": "Thankfulness"
+  },
+  {
+    "id": 50,
+    "name": "Humility"
+  },
+  {
+    "id": 51,
+    "name": "Loving Service\r"
+  },
+  {
+    "id": 52,
+    "name": "Love for One Another"
+  },
+  {
+    "id": 53,
+    "name": "Obedience"
+  },
+  {
+    "id": 54,
+    "name": "Watchfulness"
+  },
+  {
+    "id": 55,
+    "name": "Christian Warfare"
+  },
+  {
+    "id": 56,
+    "name": "Pilgrimage"
+  },
+  {
+    "id": 57,
+    "name": "Stewardship"
+  },
+  {
+    "id": 58,
+    "name": "Health and Wholeness"
+  },
+  {
+    "id": 59,
+    "name": "Love of Country"
+  },
+  {
+    "id": 60,
+    "name": "Love in the Home"
+  },
+  {
+    "id": 61,
+    "name": "Marriage"
+  },
+  {
+    "id": 62,
+    "name": "Sentences and Responses"
+  },
+  {
+    "id": 63,
+    "name": "Scripture Readings"
+  },
+  {
+    "id": 64,
+    "name": "Canticles and Prayers"
+  },
+  {
+    "id": 65,
+    "name": "Calls to Worship"
+  },
+  {
+    "id": 66,
+    "name": "Words of Assurance"
+  },
+  {
+    "id": 67,
+    "name": "Offertory Sentences"
+  },
+  {
+    "id": 68,
+    "name": "Benedictions"
+  }
+]
