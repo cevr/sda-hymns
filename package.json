@@ -1,0 +1,20 @@
+{
+  "name": "hymns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-sdk/client-s3": "^3.731.1",
+    "@aws-sdk/lib-storage": "^3.731.1",
+    "@types/node": "^22.10.7",
+    "dotenv": "^16.4.7",
+    "ftld": "^5.0.4",
+    "zod": "^3.24.1"
+  }
+}
