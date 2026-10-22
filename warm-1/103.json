@@ -1,0 +1,107 @@
+{
+  "hymn": 103,
+  "key": "c5cc18168c70e8da9698959a8d959f8e5b6c387ce4e5699d6d22254a2c9980f7",
+  "passed": true,
+  "file": "103.mp3",
+  "bytes": 2962571,
+  "sha256": "f2fb5cfd8bd570cdec4aed77feb32606f50f72b49b5c13e5f8c0107602f4be1a",
+  "md5": "5de9de22278f3f46bd26f4d7ef24c6cd",
+  "seconds": 123.362404,
+  "midiSeconds": 121.3624,
+  "lufs": -15.99,
+  "ebur128Lufs": -16,
+  "truePeak": -2.27,
+  "lagMs": 10,
+  "passes": 2,
+  "checks": {
+    "length": {
+      "ok": true,
+      "value": 0.000003940617929742984,
+      "limit": 0.05
+    },
+    "truePeak": {
+      "ok": true,
+      "value": -2.2701854965503623,
+      "limit": -1
+    },
+    "loudness": {
+      "ok": true,
+      "value": -15.994764382060115,
+      "limit": -16
+    },
+    "clipping": {
+      "ok": true,
+      "value": 0.7697272300720215,
+      "limit": 0.999
+    },
+    "silence": {
+      "ok": true,
+      "value": 0,
+      "limit": 1
+    },
+    "onsetLag": {
+      "ok": true,
+      "value": 10,
+      "limit": 30
+    },
+    "stems": {
+      "ok": true,
+      "value": 0,
+      "limit": 0
+    },
+    "memory": {
+      "ok": true,
+      "value": 0.920895488,
+      "limit": 1
+    }
+  },
+  "stems": {
+    "piano": {
+      "notes": 588,
+      "lufs": -30.94,
+      "frames": 5434880,
+      "rss": 2762686464,
+      "seconds": 6.41
+    },
+    "violas": {
+      "notes": 154,
+      "lufs": -33.26,
+      "frames": 5398016,
+      "rss": 122028032,
+      "seconds": 0.36
+    },
+    "cellos": {
+      "notes": 154,
+      "lufs": -34.04,
+      "frames": 5388288,
+      "rss": 128073728,
+      "seconds": 0.33
+    },
+    "bass": {
+      "notes": 154,
+      "lufs": -42.99,
+      "frames": 5385728,
+      "rss": 134299648,
+      "seconds": 0.33
+    },
+    "violins-melody": {
+      "notes": 154,
+      "lufs": -40.42,
+      "frames": 5389824,
+      "rss": 116277248,
+      "seconds": 0.33
+    }
+  },
+  "rss": {
+    "piano": 2762686464,
+    "sampler": 134299648,
+    "render": 303631552
+  },
+  "times": {
+    "sampler": 6.41,
+    "mix": 0.9,
+    "master": 12.17,
+    "total": 19.68
+  },
+  "waitedSeconds": 0
+}

@@ -1,0 +1,107 @@
+{
+  "hymn": 189,
+  "key": "be0ab8fb9bdb0f165cb13a0ff30f065ac687a1d97758e8d7395da12d77df2d16",
+  "passed": true,
+  "file": "189.mp3",
+  "bytes": 4851538,
+  "sha256": "f326cc75a1ab970c412d912ab64816e28ec95766ddab09714a531d312987e835",
+  "md5": "e8fe525ff84fd0c5c834c6ac8ecd7ead",
+  "seconds": 202.059569,
+  "midiSeconds": 200.05956,
+  "lufs": -16,
+  "ebur128Lufs": -16.001,
+  "truePeak": -2.21,
+  "lagMs": 6,
+  "passes": 2,
+  "checks": {
+    "length": {
+      "ok": true,
+      "value": 0.000009598497740626044,
+      "limit": 0.05
+    },
+    "truePeak": {
+      "ok": true,
+      "value": -2.213965949873794,
+      "limit": -1
+    },
+    "loudness": {
+      "ok": true,
+      "value": -15.99584593542666,
+      "limit": -16
+    },
+    "clipping": {
+      "ok": true,
+      "value": 0.7745570540428162,
+      "limit": 0.999
+    },
+    "silence": {
+      "ok": true,
+      "value": 0,
+      "limit": 1
+    },
+    "onsetLag": {
+      "ok": true,
+      "value": 6,
+      "limit": 30
+    },
+    "stems": {
+      "ok": true,
+      "value": 0,
+      "limit": 0
+    },
+    "memory": {
+      "ok": true,
+      "value": 0.9154505386666667,
+      "limit": 1
+    }
+  },
+  "stems": {
+    "piano": {
+      "notes": 1020,
+      "lufs": -31.36,
+      "frames": 8902144,
+      "rss": 2746351616,
+      "seconds": 8.51
+    },
+    "violas": {
+      "notes": 255,
+      "lufs": -33.64,
+      "frames": 8867840,
+      "rss": 124960768,
+      "seconds": 0.59
+    },
+    "cellos": {
+      "notes": 268,
+      "lufs": -34.37,
+      "frames": 8858624,
+      "rss": 123060224,
+      "seconds": 0.55
+    },
+    "bass": {
+      "notes": 263,
+      "lufs": -42.22,
+      "frames": 8857088,
+      "rss": 139919360,
+      "seconds": 0.5
+    },
+    "violins-melody": {
+      "notes": 255,
+      "lufs": -41.68,
+      "frames": 8858624,
+      "rss": 124944384,
+      "seconds": 0.51
+    }
+  },
+  "rss": {
+    "piano": 2746351616,
+    "sampler": 139919360,
+    "render": 505645888
+  },
+  "times": {
+    "sampler": 8.51,
+    "mix": 1.57,
+    "master": 20.91,
+    "total": 31.35
+  },
+  "waitedSeconds": 0
+}
