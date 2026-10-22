@@ -1,0 +1,107 @@
+{
+  "hymn": 663,
+  "key": "74f93dc52a86c113ad2e593dd9570d3830c1d73f551be0a9822ba416db54eccd",
+  "passed": true,
+  "file": "663.mp3",
+  "bytes": 432246,
+  "sha256": "ef7638896256cb9f72ece161401ec5859026daacec2f66a10f5da84610203023",
+  "md5": "26edd0574c235929f9a3e5fd52d552cc",
+  "seconds": 17.945102,
+  "midiSeconds": 15.945102,
+  "lufs": -16,
+  "ebur128Lufs": -16.004,
+  "truePeak": -2.24,
+  "lagMs": 0,
+  "passes": 2,
+  "checks": {
+    "length": {
+      "ok": true,
+      "value": 4.0816328095161225e-8,
+      "limit": 0.05
+    },
+    "truePeak": {
+      "ok": true,
+      "value": -2.2364101216335017,
+      "limit": -1
+    },
+    "loudness": {
+      "ok": true,
+      "value": -15.998877478424422,
+      "limit": -16
+    },
+    "clipping": {
+      "ok": true,
+      "value": 0.7714579701423645,
+      "limit": 0.999
+    },
+    "silence": {
+      "ok": true,
+      "value": 0,
+      "limit": 1
+    },
+    "onsetLag": {
+      "ok": true,
+      "value": 0,
+      "limit": 30
+    },
+    "stems": {
+      "ok": true,
+      "value": 0,
+      "limit": 0
+    },
+    "memory": {
+      "ok": true,
+      "value": 0.917454848,
+      "limit": 1
+    }
+  },
+  "stems": {
+    "piano": {
+      "notes": 48,
+      "lufs": -32.43,
+      "frames": 788992,
+      "rss": 2752364544,
+      "seconds": 4.27
+    },
+    "violas": {
+      "notes": 14,
+      "lufs": -31,
+      "frames": 749568,
+      "rss": 128352256,
+      "seconds": 0.1
+    },
+    "cellos": {
+      "notes": 12,
+      "lufs": -34.88,
+      "frames": 740352,
+      "rss": 123371520,
+      "seconds": 0.1
+    },
+    "bass": {
+      "notes": 8,
+      "lufs": -46.27,
+      "frames": 733184,
+      "rss": 144834560,
+      "seconds": 0.08
+    },
+    "violins-melody": {
+      "notes": 14,
+      "lufs": -43.16,
+      "frames": 735744,
+      "rss": 118767616,
+      "seconds": 0.09
+    }
+  },
+  "rss": {
+    "piano": 2752364544,
+    "sampler": 144834560,
+    "render": 137874096
+  },
+  "times": {
+    "sampler": 4.27,
+    "mix": 0.16,
+    "master": 2.06,
+    "total": 6.53
+  },
+  "waitedSeconds": 0
+}
